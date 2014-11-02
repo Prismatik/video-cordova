@@ -2,7 +2,7 @@ Video = function(){
   return this;
 }
 
-Video.prototype.play = function(file, callback) {
+Video.prototype.play = function(file, page, callback) {
 
   callback = callback || function() {};
 
