@@ -1,6 +1,6 @@
 {
   "name": "video-cordova",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Component to facilitate playing video on Cordova apps",
   "main": "index.js",
   "scripts": {
